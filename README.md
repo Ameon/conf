@@ -14,5 +14,5 @@ sudo chmod +x ~/conf/start.sh
 
 **3. Запускаем скрипт**
 ```bash
-~/conf/start.sh
+. ~/conf/start.sh
 ```

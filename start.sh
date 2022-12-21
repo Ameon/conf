@@ -1,3 +1,8 @@
+#! /bin/bash
+. ~/conf/set.config
+
+eval hostnamectl set-hostname $host
+
 if [ -f ~/.gitconfig ]; then
   rm ~/.gitconfig
 fi

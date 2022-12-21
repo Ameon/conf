@@ -4,7 +4,7 @@
 
 **1. Клонируем к себе репозиторий**
 ```bash
-git clone git@github.com:Ameon/conf.git
+git clone https://github.com/Ameon/conf.git
 ```
 
 **2. Добавляем права на файл _startup.sh_***
